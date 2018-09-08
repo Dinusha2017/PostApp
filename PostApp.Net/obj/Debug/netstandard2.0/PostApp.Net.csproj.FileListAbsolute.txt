@@ -1,0 +1,12 @@
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Net.deps.json
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Net.dll
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.csprojAssemblyReference.cache
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.csproj.CoreCompileInputs.cache
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.AssemblyInfoInputs.cache
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.AssemblyInfo.cs
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Net.pdb
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Data.dll
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\bin\Debug\netstandard2.0\PostApp.Data.pdb
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.csproj.CopyComplete
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.dll
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Net\obj\Debug\netstandard2.0\PostApp.Net.pdb

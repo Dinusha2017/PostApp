@@ -1,0 +1,9 @@
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\bin\Debug\netstandard2.0\PostApp.Data.deps.json
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\bin\Debug\netstandard2.0\PostApp.Data.dll
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\obj\Debug\netstandard2.0\PostApp.Data.csprojAssemblyReference.cache
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\obj\Debug\netstandard2.0\PostApp.Data.csproj.CoreCompileInputs.cache
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\obj\Debug\netstandard2.0\PostApp.Data.AssemblyInfoInputs.cache
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\obj\Debug\netstandard2.0\PostApp.Data.AssemblyInfo.cs
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\bin\Debug\netstandard2.0\PostApp.Data.pdb
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\obj\Debug\netstandard2.0\PostApp.Data.dll
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp.Data\obj\Debug\netstandard2.0\PostApp.Data.pdb
