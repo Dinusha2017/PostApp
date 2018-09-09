@@ -3,22 +3,31 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PostApp.UserDetailPage">
     <ContentPage.Content>
-        <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
-            <StackLayout AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1">
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label FontAttributes="Bold" Grid.Column="0" Text="Name:" Margin="4" />
+                <Label Grid.Column="1" Text="{Binding Name}" Margin="4" />
             </StackLayout>
 
-            <StackLayout IsVisible="{Binding IsBusy}" Padding="12"
-                     AbsoluteLayout.LayoutFlags="PositionProportional"
-                     AbsoluteLayout.LayoutBounds="0.5,0.5,-1,-1">
-                <ActivityIndicator 
-                    x:Name="ListLoadActivityIndicator"
-                    Color="Navy"
-                    IsRunning="{Binding IsBusy}"
-                    HeightRequest="120"
-                    WidthRequest="120"
-                    HorizontalOptions="Center" 
-                    VerticalOptions="Center"/>
+            <StackLayout Orientation="Horizontal">
+                <Label FontAttributes="Bold" Grid.Column="0" Text="Username:" Margin="4" />
+                <Label Grid.Column="1" Text="{Binding Username}" Margin="4" />
             </StackLayout>
-        </AbsoluteLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label FontAttributes="Bold" Grid.Column="0" Text="Email:" Margin="4" />
+                <Label Grid.Column="1" Text="{Binding Email}" Margin="4" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label FontAttributes="Bold" Grid.Column="0" Text="Phone:" Margin="4" />
+                <Label Grid.Column="1" Text="{Binding Phone}" Margin="4" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label FontAttributes="Bold" Grid.Column="0" Text="Website:" Margin="4" />
+                <Label Grid.Column="1" Text="{Binding Website}" Margin="4" />
+            </StackLayout>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

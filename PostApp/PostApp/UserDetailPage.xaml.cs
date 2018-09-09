@@ -1,10 +1,5 @@
 ﻿using PostApp.Data;
 using PostApp.Net;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -29,31 +24,13 @@ namespace PostApp
         {
             this.userId = userId;
 
-            ListLoadActivityIndicator.BindingContext = this;
-            IsBusy = false;
+            Title = userId.ToString() + "'s Profile";
 
             this.dataRetriever = new DataRetriever();
 
-            LoadAuthorData();
-        }
+            Author = dataRetriever.GetAuthorOfPost(userId);
 
-        async void LoadAuthorData()
-        {
-            if (!IsBusy)
-            {
-                try
-                {
-                    IsBusy = true;
-
-                    await Task.Run(() => {
-                        Author = dataRetriever.GetAuthorOfPost(userId);
-                    });
-                }
-                finally
-                {
-                    IsBusy = false;
-                }
-            }
+            BindingContext = Author;
         }
     }
 }

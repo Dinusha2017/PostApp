@@ -7,7 +7,9 @@ D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\bin\Debug\netstandard2.0\P
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\bin\Debug\netstandard2.0\PostApp.Data.pdb
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\PostApp.csprojAssemblyReference.cache
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\CommentListPage.xaml.g.cs
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\PostListPage.xaml.g.cs
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\UserDetailPage.xaml.g.cs
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\PostApp.csproj.CoreCompileInputs.cache
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\PostApp.AssemblyInfoInputs.cache
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\PostApp.AssemblyInfo.cs
@@ -15,5 +17,3 @@ D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\X
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\PostApp.csproj.CopyComplete
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\PostApp.dll
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\PostApp.pdb
-D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\CommentListPage.xaml.g.cs
-D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp\obj\Debug\netstandard2.0\UserDetailPage.xaml.g.cs

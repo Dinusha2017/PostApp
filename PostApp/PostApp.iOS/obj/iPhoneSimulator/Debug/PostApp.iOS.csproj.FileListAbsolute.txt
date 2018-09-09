@@ -60,3 +60,4 @@ D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp.iOS\obj\iPhoneSimulator\De
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp.iOS\obj\iPhoneSimulator\Debug\PostApp.iOS.csproj.CopyComplete
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp.iOS\obj\iPhoneSimulator\Debug\PostApp.iOS.exe
 D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp.iOS\obj\iPhoneSimulator\Debug\PostApp.iOS.pdb
+D:\Year4\Sem2\EAD\Assignments\PostApp\PostApp\PostApp.iOS\bin\iPhoneSimulator\Debug\PostApp.dll.mdb
